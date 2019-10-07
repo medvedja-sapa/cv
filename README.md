@@ -1,13 +1,14 @@
 
 <div align="center">
+	
   <img src="https://www.ravnik.org/static/icon-a45caf8e1bd64554605b8972e82b2dbb.svg" height="150" /></br>
- <h1>Nejc Ravnik</h1>
- <sup>Bled, Slovenia | Email: <a href="mailto:nejc@ravnik.org">nejc@ravnik.org</a> </sup>
-	<sup>| Tel:</sup> <a href="tel:0038651602367"><sup>0038651602367</sup></a><br/>
-	<sup>LinkedIn: |</sup> <sup>https://www.linkedin.com/in/nejc-ravnik-92574088/</sup>
-	<sup>GitHub: |</sup> <sup>https://github.com/nejcr/</sup>
-	<sup>Website: |</sup> <sup>https://www.ravnik.org/</sup>
-</div>
+ <h1 style="justify-content:center">Nejc Ravnik</h1>
+ <div style="display:flex;justify-content:center"><sup>Bled, Slovenia&nbsp; </sup> <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/228/flag-for-slovenia_1f1f8-1f1ee.png" height="20"/>
+  <sup> | Email: <a href="mailto:nejc@ravnik.org">nejc@ravnik.org</a> </sup>
+	<sup> | Tel:</sup> <a href="tel:0038651602367"><sup>0038651602367</sup></a><br/> </div>
+	<sup> LinkedIn: </sup> <sup><a href="https://www.linkedin.com/in/nejc-ravnik-92574088/">https://www.linkedin.com/in/nejc-ravnik-92574088/</a></sup>
+	<sup>| GitHub: </sup> <sup><a href="https://github.com/nejcr/">https://github.com/nejcr</a></sup><br/>
+	<sup>Website: </sup> <sup><a href="https://www.ravnik.org/">https://www.ravnik.org</a> </sup> 
 
 <div align="center">
  <p align="justify">
@@ -63,15 +64,16 @@
 </div>
 <br/>
 <div align="center">
-<b>AWS Certified Solutions Architect – Associate<b/> | <b> AWS Certified Cloud Practitioner<b/><br/>
+<b>AWS Certified Solutions Architect<b/> | <b> AWS Certified Cloud Practitioner<b/><br/>
 	<br/>
-<a href="https://www.certmetrics.com/amazon/public/badge.aspx?i=1&t=c&d=2019-05-06&ci=AWS00879016">
+<div style="display:flex;justify-content:center;">	
+<a style="margin-right:100px;" href="https://www.certmetrics.com/amazon/public/badge.aspx?i=1&t=c&d=2019-05-06&ci=AWS00879016">
 	<img src="https://www.certmetrics.com/api/ob/image/amazon/c/1" height="100"/>
-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </a>
 	<a href="https://www.certmetrics.com/amazon/public/badge.aspx?i=9&t=c&d=2019-05-10&ci=AWS00879016">
 	<img src="https://www.certmetrics.com/api/ob/image/amazon/c/9" height="100"/>
 </a>
+	<div>
 	
 	
 </div>
