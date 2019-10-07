@@ -21,17 +21,19 @@
  Relationship Management / Exceptional Communication Skills / <br/>Team Collaboration <i></sup>
 </div>
 <hr/>
-<div align="center">
+<div align="center" style="display: flex;justify-content:center;">
  <h3>TOOLS AND TECHNOLOGIES </h3>
 </div>
+	<br/>
 <div align="center">
 
 <b>Java</b>  <sub>(Spring Boot, Hibernate)</sub> |<b> React</b> <sub>(GatsbyJS, Mobx, Router, Unstated, Hooks Redux, Formik) </sub>|<b> Git</b> |<b> Docker</b> |<br/><b> AWS </b><sub>(Lambda, S3, DynamoDB, SNS, RDS, ECS Cognito, EBS, Cloudformation)</sub> | <b>Bash</b> | <b>Python</b><sub> (AWS SAM, Django, Flask)</sub>
 </div>
 <hr/>
-<div align="center">
+<div align="center" style="display: flex;justify-content:center;">
  <h3>PROFESSIONAL EXPERIENCE </h3>
 </div>
+<br/>
 
 <div align="center">
  <div align="justify-between">
@@ -56,9 +58,10 @@
  </p>
 </div>
 <hr/>
-<div align="center">
+<div align="center" style="display: flex;justify-content:center;">
  <h3>EDUCATION AND TRAINING </h3>
 </div>
+	 <br/>
 <div align="center">
 <b>Faculty of  Computer Science</b><sup> (2 years,not completed)</sup><i> - University of Ljubljana, Slovenia</i>
 </div>
