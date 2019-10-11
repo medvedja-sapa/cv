@@ -27,7 +27,7 @@
 	<br/>
 <div align="center">
 
-<b>Java</b>  <sub>(Spring Boot, Hibernate)</sub> |<b> React</b> <sub>(GatsbyJS, Mobx, Router, Unstated, Hooks Redux, Formik) </sub>|<b> Git</b> |<b> Docker</b> |<br/><b> AWS </b><sub>(Lambda, S3, DynamoDB, SNS, RDS, ECS Cognito, EBS, Cloudformation)</sub> | <b>Bash</b> | <b>Python</b><sub> (AWS SAM, Django, Flask)</sub>
+<b>Java</b>  <sub>(Spring Boot, Hibernate, Spark)</sub> |<b> React</b> <sub>(GatsbyJS, Mobx, Router, Unstated, Hooks Redux, Formik) </sub>|<b> Git</b> |<b> Docker</b> |<br/><b> AWS </b><sub>(Lambda, S3, DynamoDB, SNS, RDS, ECS Cognito, EBS, Cloudformation)</sub> | <b>Bash</b> | <b>Python</b><sub> (AWS SAM, Django, Flask)</sub>
 </div>
 <hr/>
 <div align="center" style="display: flex;justify-content:center;">
@@ -42,7 +42,7 @@
 <div align="center">
  <p align="justify">
   <br/>
- <sup>Structure and deploy complete set of Microservices for <a href="https://www.blurb.com/">Blurb Inc.</a> using AWS technology. Coordinate the successful execution of a print-API project by implementing effective software development methodologies while serving as a React frontend developer. <br/><b>Key Achievement</b>: Completed a wide range of programming assignments within strict time and quality constraints by scheduling tasks and collaborating with team members. </sup>
+ <sup>Structure and deploy complete set of Microservices for <a href="https://www.blurb.com/">Blurb Inc.</a> using Java and AWS. Coordinate the successful execution of a print-API project by implementing effective software development methodologies while serving as a React frontend developer. <br/><b>Key Achievement</b>: Completed a wide range of programming assignments within strict time and quality constraints by scheduling tasks and collaborating with team members. </sup>
  </p>
 </div>
 	 <div align="center">
