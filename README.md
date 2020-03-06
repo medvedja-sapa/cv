@@ -17,7 +17,7 @@
  </p>
 </div>
 <div align="center">
-<sup><i>Frontend and Backend Development / Infrastructure architecture /Team Collaboration <i></sup>
+<sup><i>Frontend and Backend Development / Infrastructure architecture / Team Collaboration <i></sup>
 </div>
 <hr/>
 <div align="center" style="display: flex;justify-content:center;">
