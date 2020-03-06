@@ -1,7 +1,7 @@
 
 <div align="center">
 	
-  <img src="https://www.ravnik.org/static/icon-a45caf8e1bd64554605b8972e82b2dbb.svg" height="150" /></br>
+  <img src="https://s3.eu-central-1.amazonaws.com/files.ravnik.org/me.svg" height="150" /></br>
  <h1 style="justify-content:center">Nejc Ravnik</h1>
  <div style="display:flex;justify-content:center"><sup>Bled, Slovenia&nbsp; </sup> <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/228/flag-for-slovenia_1f1f8-1f1ee.png" height="20"/>
   <sup> | Email: <a href="mailto:nejc@ravnik.org">nejc@ravnik.org</a> </sup>
@@ -27,7 +27,7 @@
 	<br/>
 <div align="center">
 
-<b>Java</b>  <sub>(Spring Boot, Hibernate, Spark)</sub> |<b> React</b> <sub>(GatsbyJS, Mobx, Router, Unstated, Hooks Redux, Formik) </sub>|<b> Git</b> |<b> Docker</b> |<br/><b> AWS </b><sub>(Lambda, S3, DynamoDB, SNS, RDS, ECS Cognito, EBS, Cloudformation)</sub> | <b>Bash</b> | <b>Python</b><sub> (AWS SAM, Django, Flask)</sub>
+<b>Java</b>  <sub>(Spring Boot, Hibernate, Spark)</sub> |<b> React</b> <sub>(GatsbyJS, Mobx, Router, Unstated, Hooks Redux, Formik) </sub>|<b> Git</b> |<b> Docker</b> |<b> NodeJS</b><br/><b> AWS </b><sub>(Lambda, S3, DynamoDB, SNS, RDS, ECS Cognito, EBS, Cloudformation)</sub> | <b>Bash</b> | <b>Python</b><sub> (AWS SAM, Django, Flask)</sub>
 </div>
 <hr/>
 <div align="center" style="display: flex;justify-content:center;">
