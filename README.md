@@ -17,7 +17,7 @@
  </p>
 </div>
 <div align="center">
-<sup><i>Frontend and Backend Development / Infrastructure architecture /<br/>Team Collaboration <i></sup>
+<sup><i>Frontend and Backend Development / Infrastructure architecture /Team Collaboration <i></sup>
 </div>
 <hr/>
 <div align="center" style="display: flex;justify-content:center;">
@@ -26,7 +26,7 @@
 	<br/>
 <div align="center">
 
-<b>Java</b>  <sub>(Spring Boot, Hibernate, Spark)</sub> |<b> React</b> <sub>(GatsbyJS, Mobx, Unstated, Hooks Redux, Formik) </sub>|<b> Git</b> |<b> Docker</b> |<b> Typescript,NodeJS</b><br/><b> AWS </b><sub>(Lambda, S3, DynamoDB, SNS, RDS, ECS Cognito Cloudformation)</sub> | <b>Bash</b> | <b>Python</b><sub> (AWS SAM, Django, Flask)</sub>
+<b>Java</b>  <sub>(Spring Boot, Hibernate, Spark)</sub> |<b> React</b> <sub>(GatsbyJS, Mobx, Unstated, Hooks Redux, Formik) </sub>|<b> Git</b> |<b> Docker</b> |<b> Typescript</b>|<b> NodeJS</b><br/><b> AWS </b><sub>(Lambda, S3, DynamoDB, SNS, RDS, ECS Cognito Cloudformation)</sub> | <b>Bash</b> | <b>Python</b><sub> (AWS SAM, Django, Flask)</sub>
 </div>
 <hr/>
 <div align="center" style="display: flex;justify-content:center;">
