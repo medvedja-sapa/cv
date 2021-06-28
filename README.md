@@ -1,4 +1,3 @@
-
 <div align="center">	
   <img src="https://s3.eu-central-1.amazonaws.com/files.ravnik.org/me.svg" height="150" /></br>
  <h1 style="justify-content:center">Nejc Ravnik</h1>
