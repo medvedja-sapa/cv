@@ -23,6 +23,7 @@ jobs:
         upstream_repository: medvedja-sapa/cv
         upstream_branch: master
         target_branch: master
+        git_pull_args: --allow-unrelated-histories
 
     - name: Timestamp
       run: date
