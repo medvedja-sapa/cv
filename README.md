@@ -62,7 +62,7 @@
 </div>
 	 <br/>
 <div align="center">
-<b>Faculty of  Computer Science</b><sup> (2 years,not completed)</sup><i> - University of Ljubljana, Slovenia</i>
+<b>Faculty of  Computer Science</b> - University of Ljubljana, Slovenia</i>
 </div>
 <br/>
 <div align="center">
