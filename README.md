@@ -1,6 +1,5 @@
 
-<div align="center">
-	
+<div align="center">	
   <img src="https://s3.eu-central-1.amazonaws.com/files.ravnik.org/me.svg" height="150" /></br>
  <h1 style="justify-content:center">Nejc Ravnik</h1>
  <div style="display:flex;justify-content:center"><sup>Bled, Slovenia&nbsp; </sup> <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/228/flag-for-slovenia_1f1f8-1f1ee.png" height="20"/>
@@ -76,7 +75,6 @@
 	<img src="https://www.certmetrics.com/api/ob/image/amazon/c/9" height="100"/>
 </a>
 	<div>
-	
 	
 </div>
 
