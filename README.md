@@ -54,7 +54,7 @@
           .ada blockchain domain as a native NFT on Cardano. Also learning haskell and plutus. </sup>
       </p>
     </div>
-    <div align='space-between'  style="display: flex; align-items: flex-start;" >
+    <div>
       <div>
         <b>Full Stack Developer <sup>⌛ 2017 to Present</sup></b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
