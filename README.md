@@ -10,7 +10,7 @@
     <sup> LinkedIn: </sup> <sup><a href='https://www.linkedin.com/in/nejc-ravnik-92574088/'>https://www.linkedin.com/in/nejc-ravnik-92574088/</a></sup>
     <sup>| GitHub: </sup> <sup><a href='https://github.com/nejcr/'>https://github.com/nejcr</a></sup><br />
     <sup>Website: </sup> <sup><a href='https://www.ravnik.org/'>https://www.ravnik.org</a> </sup>
-    <img src ="https://img.shields.io/twitter/follow/NejcRavnik?style=social"/>
+    <a href="https://twitter.com/NejcRavnik"><img src ="https://img.shields.io/twitter/follow/NejcRavnik?style=social"/></a>
     <div >
       <p>
         <br />
