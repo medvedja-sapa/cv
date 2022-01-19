@@ -14,12 +14,12 @@
     <div >
       <p>
         <br />
-        <sup><b>Full stack enginner with experise in developing scalable applications using AWS platform, Git, and DevOps
+        <sup><b>Full-stack engineer with experience in developing scalable applications using AWS platform, Git, and DevOps
           practices. Also proficient in web3 and crypto space.</b> </sup>
       </p>
     </div>
     <div>
-      <sup><i>Frontend and Backend Development / Infrastructure architecture / DevOps / Blochain development </i></sup>
+      <sup><i>Frontend and Backend Development / Infrastructure architecture / DevOps / Blockchain development </i></sup>
     </div>
     <hr />
     <div  style='display: flex;justify-content:center;'>
@@ -50,7 +50,7 @@
     <div >
       <p>
         <br />
-        <sup> Having a role of founder and lead frontend enginner in building the first solution to owning your custom
+        <sup> Having a role of founder and lead frontend engineer in building the first solution to owning your custom
           .ada blockchain domain as a native NFT on Cardano. Also learning haskell and plutus. </sup>
       </p>
     </div>
@@ -65,7 +65,7 @@
       <div >
         <p >
           <br />
-          <sup>Structure and deploy complete set of Microservices for <a href='https://www.blurb.com/'>Blurb Inc.</a>
+          <sup>Structure and deploy a complete set of Microservices for <a href='https://www.blurb.com/'>Blurb Inc.</a>
             using Java and AWS. Coordinate the successful execution of a print-API project by implementing effective
             software development methodologies while serving as a React frontend developer. </sup>
         </p>
@@ -80,8 +80,8 @@
         <div >
           <p >
             <br />
-            <sup>Utilized Linux and Postgres for on a regular basis to finalize technical jobs with maximum accuracy.
-              Resolved problems of software / hardware products by identifying and delivering results-driven solutions
+            <sup>Utilized Linux and Postgres  on a regular basis to finalize technical jobs with maximum accuracy.
+              Resolved problems of software/hardware  products by identifying and delivering results-driven solutions
               to optimize system uptime. Provided technical support for network installation, configuration, testing,
               and maintenance.
             </sup>
@@ -95,7 +95,7 @@
         <br />
         <div >
           <b>Faculty of Computer Science, <sup><a
-            href='https://repozitorij.uni-lj.si/IzpisGradiva.php?id=129718&lang=eng'>Bacheloor degree</a></sup>
+            href='https://repozitorij.uni-lj.si/IzpisGradiva.php?id=129718&lang=eng'>Bachelor's degree</a></sup>
           </b> - University of Ljubljana, Slovenia
         </div>
         <br />
